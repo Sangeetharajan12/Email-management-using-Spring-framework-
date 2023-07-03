@@ -1,1 +1,1 @@
-# Email-management-using-Spring-framework-
+# Email-management-using-Java-Swing
